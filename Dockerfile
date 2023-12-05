@@ -8,6 +8,7 @@ COPY . .
 RUN slu static-api version --set-git-clean > version.json
 
 FROM sikalabs/signpost:v0.3.0
+LABEL org.opencontainers.image.source https://github.com/ondrejsika/ccc-oxs-cz
 COPY --from=yq /usr/local/bin/yq /usr/local/bin/yq
 COPY config.yml /
 COPY static /static
