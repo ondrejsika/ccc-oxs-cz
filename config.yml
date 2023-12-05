@@ -39,3 +39,7 @@ Rows:
         URL: https://tickets.events.ccc.de
       - Title: All Congresses (sika.link/ccc)
         URL: https://events.ccc.de/congress/
+    - Heading: Past Congresses
+      Links:
+      - Title: 36c3 (archive)
+        URL: https://ccc-oxs-cz-2019.web-archive.xsika.com/
