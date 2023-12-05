@@ -1,0 +1,41 @@
+---
+SiteHeading: ccc.oxs.cz
+SiteTitle: ccc.oxs.cz
+CompanyName: Ondrej Sika
+CompanyDomain: ondrejsika.com
+CompanyURL: https://ondrejsika.com
+HtmlHeadExtra: <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png"
+  /><link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png"
+  /><link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png"
+  /><link rel="manifest" href="/static/site.webmanifest" />
+Rows:
+- Cols:
+  - Blocks:
+    - Heading: Main
+      Links:
+      - Title: Main Page (infos)
+        URL: https://events.ccc.de/congress/2023/infos/startpage.html
+      - Title: Main Page (hub)
+        URL: https://events.ccc.de/congress/2023/hub/en/index
+      - Title: Fahrplan
+        URL: https://events.ccc.de/congress/2023/hub/en/fahrplan
+      - Title: c3nav
+        URL: https://c3nav.de/
+  - Blocks:
+    - Heading: Twitter
+      Links:
+      - Title: "@chaosupdates"
+        URL: https://twitter.com/chaosupdates
+      - Title: "@FahrplanUpdate"
+        URL: https://twitter.com/FahrplanUpdate
+    - Heading: Other
+      Links:
+      - Title: c3queue
+        URL: https://c3queue.de/
+  - Blocks:
+    - Heading: All Congreses
+      Links:
+      - Title: Tickets
+        URL: https://tickets.events.ccc.de
+      - Title: All Congresses (sika.link/ccc)
+        URL: https://events.ccc.de/congress/
