@@ -13,9 +13,9 @@ Rows:
   - Blocks:
     - Heading: Main
       Links:
-      - Title: Main Page (infos)
+      - Title: Infos (Start Page)
         URL: https://events.ccc.de/congress/2023/infos/startpage.html
-      - Title: Main Page (hub)
+      - Title: Hub
         URL: https://events.ccc.de/congress/2023/hub/en/index
       - Title: Fahrplan
         URL: https://events.ccc.de/congress/2023/hub/en/fahrplan
