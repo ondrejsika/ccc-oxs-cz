@@ -13,8 +13,10 @@ Rows:
   - Blocks:
     - Heading: Main
       Links:
-      - Title: Infos (Start Page)
+      - Title: 37c3 Landing Page
         URL: https://events.ccc.de/congress/2023/infos/startpage.html
+      - Title: Infos
+        URL: https://events.ccc.de/congress/2023/infos/
       - Title: Hub
         URL: https://events.ccc.de/congress/2023/hub/en/index
       - Title: Fahrplan
