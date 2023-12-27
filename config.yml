@@ -40,6 +40,8 @@ Rows:
         URL: https://c3queue.de/
       - Title: Dashboard
         URL: https://dashboard.congress.ccc.de/
+      - Title: Infobeamer
+        URL: https://infobeamer.c3voc.de/
   - Blocks:
     - Heading: All Congreses
       Links:
