@@ -20,6 +20,8 @@ Rows:
       - Title: Hub
         URL: https://events.ccc.de/congress/2023/hub/en/index
       - Title: Fahrplan
+        URL: https://fahrplan.events.ccc.de/congress/2023/fahrplan/
+      - Title: Fahrplan (hub)
         URL: https://events.ccc.de/congress/2023/hub/en/fahrplan
       - Title: c3nav
         URL: https://c3nav.de/
