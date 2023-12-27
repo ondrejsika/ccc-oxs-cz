@@ -32,6 +32,8 @@ Rows:
       Links:
       - Title: c3queue
         URL: https://c3queue.de/
+      - Title: Dashboard
+        URL: https://dashboard.congress.ccc.de/
   - Blocks:
     - Heading: All Congreses
       Links:
