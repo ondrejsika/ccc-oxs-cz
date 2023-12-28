@@ -27,6 +27,8 @@ Rows:
         URL: https://c3nav.de/
       - Title: Venue (CCH, Google Maps)
         URL: https://maps.app.goo.gl/AqqxnCy96JCotjN37
+      - Title: Room Pauli (Google Maps)
+        URL: https://maps.app.goo.gl/mja76Moyt42HyvQh6
   - Blocks:
     - Heading: Twitter
       Links:
